@@ -11,4 +11,4 @@ https://eu-de.dataplatform.cloud.ibm.com/analytics/notebooks/v2/b9a83690-dfa0-40
 
 # Compare Cities
 The notebook for the final assignment can be found here.
-https://eu-de.dataplatform.cloud.ibm.com/analytics/notebooks/v2/df15b56f-7db7-47a5-ae56-f8961a046b92/view?access_token=6fdea23ec0a18a59f7a3024da8b91ac9bf8b5b49f0a88e914ef42e7a37256b3d
+https://eu-de.dataplatform.cloud.ibm.com/analytics/notebooks/v2/c0112ac0-9949-4c16-bb5a-826133245235/view?access_token=f71f201aa3fe43a081a252e8d563a44c70deeb2ad82bfc4382c4dc0e1710855c
